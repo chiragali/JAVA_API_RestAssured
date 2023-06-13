@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="4" passed="3" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-29T05:32:26Z" name="Default suite" finished-at="2023-03-29T05:32:40Z" duration-ms="14774">
+    <groups>
+      <group name="Regression">
+        <method signature="LoginAPITest.verifyConsumerPortalLogin()[pri:0, instance:com.portest.LoginAPITest@26bab2f1]" name="verifyConsumerPortalLogin" class="com.portest.LoginAPITest"/>
+        <method signature="LoginAPITest.verifyConsumerPortalLoginwithInvalidEmail()[pri:0, instance:com.portest.LoginAPITest@26bab2f1]" name="verifyConsumerPortalLoginwithInvalidEmail" class="com.portest.LoginAPITest"/>
+        <method signature="LoginAPITest.verifyConsumerPortalLoginwithInvalidOrgId()[pri:0, instance:com.portest.LoginAPITest@26bab2f1]" name="verifyConsumerPortalLoginwithInvalidOrgId" class="com.portest.LoginAPITest"/>
+        <method signature="LoginAPITest.verifyConsumerPortalLoginwithInvalidPassword()[pri:0, instance:com.portest.LoginAPITest@26bab2f1]" name="verifyConsumerPortalLoginwithInvalidPassword" class="com.portest.LoginAPITest"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test started-at="2023-03-29T05:32:26Z" name="Default test" finished-at="2023-03-29T05:32:40Z" duration-ms="14774">
+      <class name="com.portest.LoginAPITest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.portest.LoginAPITest@26bab2f1]" started-at="2023-03-29T11:02:25Z" name="setup" finished-at="2023-03-29T11:02:26Z" duration-ms="322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.portest.LoginAPITest@26bab2f1]" started-at="2023-03-29T11:02:26Z" name="beforeClass" finished-at="2023-03-29T11:02:26Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.portest.LoginAPITest@26bab2f1]" started-at="2023-03-29T11:02:26Z" name="beforeMethod" finished-at="2023-03-29T11:02:26Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.portest.LoginAPITest.verifyConsumerPortalLogin() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyConsumerPortalLogin()[pri:0, instance:com.portest.LoginAPITest@26bab2f1]" started-at="2023-03-29T11:02:26Z" name="verifyConsumerPortalLogin" description="Verify Consumer Login" finished-at="2023-03-29T11:02:33Z" duration-ms="7038" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyConsumerPortalLogin -->
+        <test-method is-config="true" signature="AfterMethod(org.testng.ITestResult)[pri:0, instance:com.portest.LoginAPITest@26bab2f1]" started-at="2023-03-29T11:02:33Z" name="AfterMethod" finished-at="2023-03-29T11:02:33Z" duration-ms="11" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyConsumerPortalLogin status=SUCCESS method=LoginAPITest.verifyConsumerPortalLogin()[pri:0, instance:com.portest.LoginAPITest@26bab2f1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.portest.LoginAPITest@26bab2f1]" started-at="2023-03-29T11:02:33Z" name="beforeMethod" finished-at="2023-03-29T11:02:33Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.portest.LoginAPITest.verifyConsumerPortalLoginwithInvalidEmail() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyConsumerPortalLoginwithInvalidEmail()[pri:0, instance:com.portest.LoginAPITest@26bab2f1]" started-at="2023-03-29T11:02:33Z" name="verifyConsumerPortalLoginwithInvalidEmail" description="Verify Consumer with invalid Email address and valid password" finished-at="2023-03-29T11:02:35Z" duration-ms="2391" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyConsumerPortalLoginwithInvalidEmail -->
+        <test-method is-config="true" signature="AfterMethod(org.testng.ITestResult)[pri:0, instance:com.portest.LoginAPITest@26bab2f1]" started-at="2023-03-29T11:02:35Z" name="AfterMethod" finished-at="2023-03-29T11:02:35Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyConsumerPortalLoginwithInvalidEmail status=SUCCESS method=LoginAPITest.verifyConsumerPortalLoginwithInvalidEmail()[pri:0, instance:com.portest.LoginAPITest@26bab2f1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.portest.LoginAPITest@26bab2f1]" started-at="2023-03-29T11:02:35Z" name="beforeMethod" finished-at="2023-03-29T11:02:35Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.portest.LoginAPITest.verifyConsumerPortalLoginwithInvalidOrgId() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyConsumerPortalLoginwithInvalidOrgId()[pri:0, instance:com.portest.LoginAPITest@26bab2f1]" started-at="2023-03-29T11:02:35Z" name="verifyConsumerPortalLoginwithInvalidOrgId" description="Verify Consumer with invalid Org Id" finished-at="2023-03-29T11:02:38Z" duration-ms="2402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyConsumerPortalLoginwithInvalidOrgId -->
+        <test-method is-config="true" signature="AfterMethod(org.testng.ITestResult)[pri:0, instance:com.portest.LoginAPITest@26bab2f1]" started-at="2023-03-29T11:02:38Z" name="AfterMethod" finished-at="2023-03-29T11:02:38Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyConsumerPortalLoginwithInvalidOrgId status=SUCCESS method=LoginAPITest.verifyConsumerPortalLoginwithInvalidOrgId()[pri:0, instance:com.portest.LoginAPITest@26bab2f1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.portest.LoginAPITest@26bab2f1]" started-at="2023-03-29T11:02:38Z" name="beforeMethod" finished-at="2023-03-29T11:02:38Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.portest.LoginAPITest.verifyConsumerPortalLoginwithInvalidPassword() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyConsumerPortalLoginwithInvalidPassword()[pri:0, instance:com.portest.LoginAPITest@26bab2f1]" started-at="2023-03-29T11:02:38Z" name="verifyConsumerPortalLoginwithInvalidPassword" description="Verify Consumer with valid Email address and invalid password" finished-at="2023-03-29T11:02:40Z" duration-ms="2423" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [Invalid username or password] but found [Invalid username or password.]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [Invalid username or password] but found [Invalid username or password.]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:135)
+	at org.testng.Assert.assertEquals(Assert.java:116)
+	at org.testng.Assert.assertEquals(Assert.java:190)
+	at org.testng.Assert.assertEquals(Assert.java:200)
+	at com.portest.LoginAPITest.verifyConsumerPortalLoginwithInvalidPassword(LoginAPITest.java:67)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyConsumerPortalLoginwithInvalidPassword -->
+        <test-method is-config="true" signature="AfterMethod(org.testng.ITestResult)[pri:0, instance:com.portest.LoginAPITest@26bab2f1]" started-at="2023-03-29T11:02:40Z" name="AfterMethod" finished-at="2023-03-29T11:02:40Z" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyConsumerPortalLoginwithInvalidPassword status=FAILURE method=LoginAPITest.verifyConsumerPortalLoginwithInvalidPassword()[pri:0, instance:com.portest.LoginAPITest@26bab2f1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="AfterTest()[pri:0, instance:com.portest.LoginAPITest@26bab2f1]" started-at="2023-03-29T11:02:40Z" name="AfterTest" finished-at="2023-03-29T11:02:40Z" duration-ms="481" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.portest.LoginAPITest@26bab2f1]" started-at="2023-03-29T11:02:41Z" name="tearDown" finished-at="2023-03-29T11:02:41Z" duration-ms="70" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.portest.LoginAPITest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

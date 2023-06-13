@@ -1,1 +1,1 @@
-# JAVA_API_RestAssured
+# CPQTests

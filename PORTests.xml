@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="PORtests" parallel="classes" verbose="2" thread-count="3">
+	<!-- <listeners>
+		<listener class-name="com.extent.report.ExtentTestNGIReporterListener" />
+		<listener class-name="com.extent.report.RetryListener" />
+	</listeners> -->
+	<!-- <parameter name="environment" value="config.properties" /> -->
+	<!-- <parameter name="reportName" value="PORtests" /> -->
+
+	<test name="PORtests">
+		<groups>
+			<run>
+				<include name="Regression" />
+			</run>
+		</groups>
+		<classes>
+			 	<class name="com.portest.LoginAPITest" />
+		</classes>
+	</test>
+</suite> 

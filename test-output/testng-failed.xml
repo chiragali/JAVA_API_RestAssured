@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test name="Default test" verbose="2">
+    <classes>
+      <class name="com.portest.LoginAPITest"/>
+    </classes>
+  </test> <!-- Default test -->
+  <test parallel="none" name="Default test(failed)">
+    <classes>
+      <class name="com.portest.LoginAPITest">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="AfterTest"/>
+          <include name="beforeMethod"/>
+          <include name="AfterMethod"/>
+          <include name="verifyConsumerPortalLoginwithInvalidPassword"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- com.portest.LoginAPITest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
