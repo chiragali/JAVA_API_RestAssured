@@ -33,8 +33,7 @@ public class LoginAPITest extends TestBaseSetup{
 		Response resp = loginAPI.postConsumerPortalResponseWithValidInput();
 		
 		JsonPath js = restUtils.convertResponsetoJsonPath(resp);
-		Assert.assertEquals(js.get("Message.Type"), "Success");
-		
+		Assert.assertEquals(js.get("Message.Type"), "Success");		
 	}
 	
 	@Test(groups = { "Regression" }, description = "Verify Consumer with invalid Org Id")
