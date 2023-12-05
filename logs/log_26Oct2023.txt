@@ -1,0 +1,423 @@
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,
+Result: Pass,
+Status Code: 200,
+Request Headers: {Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPcmdhbml6YXRpb25JZCI6IjMwNzAiLCJVc2VySWQiOiIyNTgiLCJpYXQiOjE2OTgyOTgxODYsImV4cCI6MTY5ODI5ODQ4Nn0.utQAMk2I1FRSx6Le9HGEpgDxK9yIf9I6pNWwh0s0Xzo},
+Query Parameters: {email=kofyihumli@gufum.com},
+UTC Start Time: 2023-10-26T05:29:51.855Z,
+UTC End Time: 2023-10-26T05:29:58.186Z
+
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,
+Result: Pass,
+Status Code: 200,
+Request Headers: {Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPcmdhbml6YXRpb25JZCI6IjMwNzAiLCJVc2VySWQiOiIyNTgiLCJpYXQiOjE2OTgyOTg5ODcsImV4cCI6MTY5ODI5OTI4N30.uVdpUQOy30u9707CkquBxJU_g5YRuW0oQCibQhoRfd8},
+Query Parameters: {email=kofyihumli@gufum.com},
+UTC Start Time: 2023-10-26T05:43:12.798Z,
+UTC End Time: 2023-10-26T05:43:18.324Z
+
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,
+Result: Pass,
+Status Code: 200,
+Request Headers: {Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPcmdhbml6YXRpb25JZCI6IjMwNzAiLCJVc2VySWQiOiIyNTgiLCJpYXQiOjE2OTgzMTI2NTUsImV4cCI6MTY5ODMxMjk1NX0.hBcy18bhG2lgDvBmEtSMVmfMonbAd4bIjorbGJys8MQ},
+Query Parameters: {email=kofyihumli@gufum.com},
+UTC Start Time: 2023-10-26T09:31:00.202Z,
+UTC End Time: 2023-10-26T09:31:03.157Z
+
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,
+Result: Pass,
+Status Code: 200,
+Request Headers: {Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPcmdhbml6YXRpb25JZCI6IjMwNzAiLCJVc2VySWQiOiIyNTgiLCJpYXQiOjE2OTgzMTI2NTUsImV4cCI6MTY5ODMxMjk1NX0.hBcy18bhG2lgDvBmEtSMVmfMonbAd4bIjorbGJys8MQ},
+Query Parameters: {email=kofyihumli@gufum.com},
+UTC Start Time: 2023-10-26T09:32:03.172Z,
+UTC End Time: 2023-10-26T09:32:05.204Z
+
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,
+Result: Pass,
+Status Code: 200,
+Request Headers: {Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPcmdhbml6YXRpb25JZCI6IjMwNzAiLCJVc2VySWQiOiIyNTgiLCJpYXQiOjE2OTgzMTk0MDUsImV4cCI6MTY5ODMxOTcwNX0.ABVXw4zWSEfFjzB69pD4I00XQ2V2XLBljTMz1H1M6ys},
+Query Parameters: {email=kofyihumli@gufum.com},
+UTC Start Time: 2023-10-26T11:24:02.785Z,
+UTC End Time: 2023-10-26T11:24:08.951Z
+
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,
+Result: Pass,
+Status Code: 200,
+Request Headers: {Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPcmdhbml6YXRpb25JZCI6IjMwNzAiLCJVc2VySWQiOiIyNTgiLCJpYXQiOjE2OTgzMTk0MDUsImV4cCI6MTY5ODMxOTcwNX0.ABVXw4zWSEfFjzB69pD4I00XQ2V2XLBljTMz1H1M6ys},
+Query Parameters: {email=kofyihumli@gufum.com},
+UTC Start Time: 2023-10-26T11:25:08.958Z,
+UTC End Time: 2023-10-26T11:25:11.738Z
+
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,
+Result: Pass,
+Status Code: 200,
+Request Headers: {Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPcmdhbml6YXRpb25JZCI6IjMwNzAiLCJVc2VySWQiOiIyNTgiLCJpYXQiOjE2OTgzMTk3MTYsImV4cCI6MTY5ODMyMDAxNn0.A7sF62eVyGxInuk7q1wc3u9bAFiZYocgVgqBnnHRuc4},
+Query Parameters: {email=kofyihumli@gufum.com},
+UTC Start Time: 2023-10-26T11:29:11.136Z,
+UTC End Time: 2023-10-26T11:29:13.789Z
+
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,
+Result: Pass,
+Status Code: 200,
+Request Headers: {Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPcmdhbml6YXRpb25JZCI6IjMwNzAiLCJVc2VySWQiOiIyNTgiLCJpYXQiOjE2OTgzMTk3MTYsImV4cCI6MTY5ODMyMDAxNn0.A7sF62eVyGxInuk7q1wc3u9bAFiZYocgVgqBnnHRuc4},
+Query Parameters: {email=kofyihumli@gufum.com},
+UTC Start Time: 2023-10-26T11:30:13.806Z,
+UTC End Time: 2023-10-26T11:30:16.344Z
+
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,
+Result: Pass,
+Status Code: 200,
+Request Headers: {Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPcmdhbml6YXRpb25JZCI6IjMwNzAiLCJVc2VySWQiOiIyNTgiLCJpYXQiOjE2OTgzMjA0NTEsImV4cCI6MTY5ODMyMDc1MX0.kJo311DXnl8lJ_Whaw1q7iLhv6eh8MpqNm13vt4xBR4},
+Query Parameters: {email=kofyihumli@gufum.com},
+UTC Start Time: 2023-10-26T11:41:25.696Z,
+UTC End Time: 2023-10-26T11:41:30.932Z
+
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,
+Result: Pass,
+Status Code: 200,
+Request Headers: {Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPcmdhbml6YXRpb25JZCI6IjMwNzAiLCJVc2VySWQiOiIyNTgiLCJpYXQiOjE2OTgzMjA0NTEsImV4cCI6MTY5ODMyMDc1MX0.kJo311DXnl8lJ_Whaw1q7iLhv6eh8MpqNm13vt4xBR4},
+Query Parameters: {email=kofyihumli@gufum.com},
+UTC Start Time: 2023-10-26T11:42:30.947Z,
+UTC End Time: 2023-10-26T11:42:33.275Z
+
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,
+Result: Pass,
+Status Code: 200,
+Request Headers: {Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPcmdhbml6YXRpb25JZCI6IjMwNzAiLCJVc2VySWQiOiIyNTgiLCJpYXQiOjE2OTgzMjA0NTEsImV4cCI6MTY5ODMyMDc1MX0.kJo311DXnl8lJ_Whaw1q7iLhv6eh8MpqNm13vt4xBR4},
+Query Parameters: {email=kofyihumli@gufum.com},
+UTC Start Time: 2023-10-26T11:44:03.287Z,
+UTC End Time: 2023-10-26T11:44:05.599Z
+
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,
+Result: Fail,
+Status Code: 401,
+Request Headers: {Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPcmdhbml6YXRpb25JZCI6IjMwNzAiLCJVc2VySWQiOiIyNTgiLCJpYXQiOjE2OTgzMjA0NTEsImV4cCI6MTY5ODMyMDc1MX0.kJo311DXnl8lJ_Whaw1q7iLhv6eh8MpqNm13vt4xBR4},
+Query Parameters: {email=kofyihumli@gufum.com},
+UTC Start Time: 2023-10-26T11:46:05.619Z,
+UTC End Time: 2023-10-26T11:46:07.059Z
+
+URL Endpoint: https://api.pointofrental.com/v1_dev/apikey/contacts,
+Result: Pass,
+Status Code: 200,
+Request Headers: {X-Filter=[{"field":"Emails.Email","type":"LIKE","value":"kofyihumli@gufum.com"}], X-Api-Key=R1fiwC9QlwaP1kYCRBgtI3PAA27MAjLZ9z18BHch, X-Paging={"page": 1,"pageSize": 10}},
+UTC Start Time: 2023-10-26T11:46:07.064Z,
+UTC End Time: 2023-10-26T11:46:08.712Z
+
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,
+Result: Fail,
+Status Code: 401,
+Request Headers: {Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPcmdhbml6YXRpb25JZCI6IjMwNzAiLCJVc2VySWQiOiIyNTgiLCJpYXQiOjE2OTgzMjA0NTEsImV4cCI6MTY5ODMyMDc1MX0.kJo311DXnl8lJ_Whaw1q7iLhv6eh8MpqNm13vt4xBR4},
+Query Parameters: {email=kofyihumli@gufum.com},
+UTC Start Time: 2023-10-26T11:48:40.750Z,
+UTC End Time: 2023-10-26T11:48:41.576Z
+
+URL Endpoint: https://api.pointofrental.com/v1_dev/apikey/contacts,
+Result: Pass,
+Status Code: 200,
+Request Headers: {X-Filter=[{"field":"Emails.Email","type":"LIKE","value":"kofyihumli@gufum.com"}], X-Api-Key=R1fiwC9QlwaP1kYCRBgtI3PAA27MAjLZ9z18BHch, X-Paging={"page": 1,"pageSize": 10}},
+UTC Start Time: 2023-10-26T11:48:41.580Z,
+UTC End Time: 2023-10-26T11:48:43.478Z
+
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,
+Result: Pass,
+Status Code: 200,
+Request Headers: {Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPcmdhbml6YXRpb25JZCI6IjMwNzAiLCJVc2VySWQiOiIyNTgiLCJpYXQiOjE2OTgzMjA5ODcsImV4cCI6MTY5ODMyMTI4N30.Nw7D3-X8qxxBjX1IxGAsEj3ob6QuQ-aFVsv4jHUIgxQ},
+Query Parameters: {email=kofyihumli@gufum.com},
+Response Body: {"Records":[{"customerName":"STARBUCKS","customerId":233833}],"Message":{"Type":"Success"}},
+UTC Start Time: 2023-10-26T11:50:21.529Z,
+UTC End Time: 2023-10-26T11:50:24.348Z
+
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,
+Result: Pass,
+Status Code: 200,
+Request Headers: {Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPcmdhbml6YXRpb25JZCI6IjMwNzAiLCJVc2VySWQiOiIyNTgiLCJpYXQiOjE2OTgzMjA5ODcsImV4cCI6MTY5ODMyMTI4N30.Nw7D3-X8qxxBjX1IxGAsEj3ob6QuQ-aFVsv4jHUIgxQ},
+Query Parameters: {email=kofyihumli@gufum.com},
+Response Body: {"Records":[{"customerName":"STARBUCKS","customerId":233833}],"Message":{"Type":"Success"}},
+UTC Start Time: 2023-10-26T11:51:24.361Z,
+UTC End Time: 2023-10-26T11:51:27.370Z
+
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,
+Result: Pass,
+Status Code: 200,
+Request Headers: {Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPcmdhbml6YXRpb25JZCI6IjMwNzAiLCJVc2VySWQiOiIyNTgiLCJpYXQiOjE2OTgzMjA5ODcsImV4cCI6MTY5ODMyMTI4N30.Nw7D3-X8qxxBjX1IxGAsEj3ob6QuQ-aFVsv4jHUIgxQ},
+Query Parameters: {email=kofyihumli@gufum.com},
+Response Body: {"Records":[{"customerName":"STARBUCKS","customerId":233833}],"Message":{"Type":"Success"}},
+UTC Start Time: 2023-10-26T11:52:57.378Z,
+UTC End Time: 2023-10-26T11:52:59.536Z
+
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,
+Result: Fail,
+Status Code: 401,
+Request Headers: {Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPcmdhbml6YXRpb25JZCI6IjMwNzAiLCJVc2VySWQiOiIyNTgiLCJpYXQiOjE2OTgzMjA5ODcsImV4cCI6MTY5ODMyMTI4N30.Nw7D3-X8qxxBjX1IxGAsEj3ob6QuQ-aFVsv4jHUIgxQ},
+Query Parameters: {email=kofyihumli@gufum.com},
+Response Body: {"type":"Error","token":"Unauthorized.","tokenData":null,"message":"Request failed with status code 401"},
+UTC Start Time: 2023-10-26T11:54:59.555Z,
+UTC End Time: 2023-10-26T11:55:00.484Z
+
+URL Endpoint: https://api.pointofrental.com/v1_dev/apikey/contacts,
+Result: Pass,
+Status Code: 200,
+Request Headers: {X-Filter=[{"field":"Emails.Email","type":"LIKE","value":"kofyihumli@gufum.com"}], X-Api-Key=R1fiwC9QlwaP1kYCRBgtI3PAA27MAjLZ9z18BHch, X-Paging={"page": 1,"pageSize": 10}},
+Response Body: [{"ModelType":"Contact","Id":"21101","Name":"Sep Month","Identifiers":{"ParentId":"233833","DriversLicense":"7456985","EmployeeId":null},"Addresses":[],"CompanyName":null,"Emails":[{"Type":"Default","Email":"kofyihumli@gufum.com"}],"FirstName":null,"LastName":null,"Phones":[{"Type":"Default","CountryCode":null,"Number":"","NumberE164":null,"Extension":"","SmsCapable":false},{"Type":"Mobile","CountryCode":null,"Number":"","NumberE164":null,"Extension":"","SmsCapable":true}],"AdditionalFields":{"InactiveDateTime":null},"CreatedDateTime":"2023-09-13T09:59:30.163Z","UpdatedDateTime":"2023-09-13T09:59:30.163Z","Hidden":0,"Department":null,"Title":null,"Disabled":false}],
+UTC Start Time: 2023-10-26T11:55:00.489Z,
+UTC End Time: 2023-10-26T11:55:02.328Z
+
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,
+Result: Fail,
+Status Code: 401,
+Request Headers: {Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPcmdhbml6YXRpb25JZCI6IjMwNzAiLCJVc2VySWQiOiIyNTgiLCJpYXQiOjE2OTgzMjA5ODcsImV4cCI6MTY5ODMyMTI4N30.Nw7D3-X8qxxBjX1IxGAsEj3ob6QuQ-aFVsv4jHUIgxQ},
+Query Parameters: {email=kofyihumli@gufum.com},
+Response Body: {"type":"Error","token":"Unauthorized.","tokenData":null,"message":"Request failed with status code 401"},
+UTC Start Time: 2023-10-26T11:57:34.361Z,
+UTC End Time: 2023-10-26T11:57:34.949Z
+
+URL Endpoint: https://api.pointofrental.com/v1_dev/apikey/contacts,
+Result: Pass,
+Status Code: 200,
+Request Headers: {X-Filter=[{"field":"Emails.Email","type":"LIKE","value":"kofyihumli@gufum.com"}], X-Api-Key=R1fiwC9QlwaP1kYCRBgtI3PAA27MAjLZ9z18BHch, X-Paging={"page": 1,"pageSize": 10}},
+Response Body: [{"ModelType":"Contact","Id":"21101","Name":"Sep Month","Identifiers":{"ParentId":"233833","DriversLicense":"7456985","EmployeeId":null},"Addresses":[],"CompanyName":null,"Emails":[{"Type":"Default","Email":"kofyihumli@gufum.com"}],"FirstName":null,"LastName":null,"Phones":[{"Type":"Default","CountryCode":null,"Number":"","NumberE164":null,"Extension":"","SmsCapable":false},{"Type":"Mobile","CountryCode":null,"Number":"","NumberE164":null,"Extension":"","SmsCapable":true}],"AdditionalFields":{"InactiveDateTime":null},"CreatedDateTime":"2023-09-13T09:59:30.163Z","UpdatedDateTime":"2023-09-13T09:59:30.163Z","Hidden":0,"Department":null,"Title":null,"Disabled":false}],
+UTC Start Time: 2023-10-26T11:57:34.952Z,
+UTC End Time: 2023-10-26T11:57:36.766Z
+
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,
+Result: Pass,
+Status Code: 200,
+Request Headers: {Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPcmdhbml6YXRpb25JZCI6IjMwNzAiLCJVc2VySWQiOiIyNTgiLCJpYXQiOjE2OTgzMjE5NTAsImV4cCI6MTY5ODMyMjI1MH0.sF4ofdXr34VsTw9AZr-DWARU9gXgZ2hXk1dkOYCxgTE},
+Query Parameters: {email=kofyihumli@gufum.com},
+Response Body: {"Records":[{"customerName":"STARBUCKS","customerId":233833}],"Message":{"Type":"Success"}},
+UTC Start Time: 2023-10-26T12:06:24.464Z,
+UTC End Time: 2023-10-26T12:06:26.977Z
+
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,
+Result: Pass,
+Status Code: 200,
+Request Headers: {Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPcmdhbml6YXRpb25JZCI6IjMwNzAiLCJVc2VySWQiOiIyNTgiLCJpYXQiOjE2OTgzMjE5NTAsImV4cCI6MTY5ODMyMjI1MH0.sF4ofdXr34VsTw9AZr-DWARU9gXgZ2hXk1dkOYCxgTE},
+Query Parameters: {email=kofyihumli@gufum.com},
+Response Body: {"Records":[{"customerName":"STARBUCKS","customerId":233833}],"Message":{"Type":"Success"}},
+UTC Start Time: 2023-10-26T12:07:27.003Z,
+UTC End Time: 2023-10-26T12:07:28.762Z
+
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,
+Result: Pass,
+Status Code: 200,
+Request Headers: {Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPcmdhbml6YXRpb25JZCI6IjMwNzAiLCJVc2VySWQiOiIyNTgiLCJpYXQiOjE2OTgzMjE5NTAsImV4cCI6MTY5ODMyMjI1MH0.sF4ofdXr34VsTw9AZr-DWARU9gXgZ2hXk1dkOYCxgTE},
+Query Parameters: {email=kofyihumli@gufum.com},
+Response Body: {"Records":[{"customerName":"STARBUCKS","customerId":233833}],"Message":{"Type":"Success"}},
+UTC Start Time: 2023-10-26T12:08:58.776Z,
+UTC End Time: 2023-10-26T12:09:01.396Z
+
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,
+Result: Fail,
+Status Code: 401,
+Request Headers: {Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPcmdhbml6YXRpb25JZCI6IjMwNzAiLCJVc2VySWQiOiIyNTgiLCJpYXQiOjE2OTgzMjE5NTAsImV4cCI6MTY5ODMyMjI1MH0.sF4ofdXr34VsTw9AZr-DWARU9gXgZ2hXk1dkOYCxgTE},
+Query Parameters: {email=kofyihumli@gufum.com},
+Response Body: {"type":"Error","token":"Unauthorized.","tokenData":null,"message":"Request failed with status code 401"},
+UTC Start Time: 2023-10-26T12:11:01.413Z,
+UTC End Time: 2023-10-26T12:11:02.030Z
+
+URL Endpoint: https://api.pointofrental.com/v1_dev/apikey/contacts,
+Result: Pass,
+Status Code: 200,
+Request Headers: {X-Filter=[{"field":"Emails.Email","type":"LIKE","value":"kofyihumli@gufum.com"}], X-Api-Key=R1fiwC9QlwaP1kYCRBgtI3PAA27MAjLZ9z18BHch, X-Paging={"page": 1,"pageSize": 10}},
+Response Body: [{"ModelType":"Contact","Id":"21101","Name":"Sep Month","Identifiers":{"ParentId":"233833","DriversLicense":"7456985","EmployeeId":null},"Addresses":[],"CompanyName":null,"Emails":[{"Type":"Default","Email":"kofyihumli@gufum.com"}],"FirstName":null,"LastName":null,"Phones":[{"Type":"Default","CountryCode":null,"Number":"","NumberE164":null,"Extension":"","SmsCapable":false},{"Type":"Mobile","CountryCode":null,"Number":"","NumberE164":null,"Extension":"","SmsCapable":true}],"AdditionalFields":{"InactiveDateTime":null},"CreatedDateTime":"2023-09-13T09:59:30.163Z","UpdatedDateTime":"2023-09-13T09:59:30.163Z","Hidden":0,"Department":null,"Title":null,"Disabled":false}],
+UTC Start Time: 2023-10-26T12:11:02.034Z,
+UTC End Time: 2023-10-26T12:11:03.740Z
+
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,
+Result: Fail,
+Status Code: 401,
+Request Headers: {Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPcmdhbml6YXRpb25JZCI6IjMwNzAiLCJVc2VySWQiOiIyNTgiLCJpYXQiOjE2OTgzMjE5NTAsImV4cCI6MTY5ODMyMjI1MH0.sF4ofdXr34VsTw9AZr-DWARU9gXgZ2hXk1dkOYCxgTE},
+Query Parameters: {email=kofyihumli@gufum.com},
+Response Body: {"type":"Error","token":"Unauthorized.","tokenData":null,"message":"Request failed with status code 401"},
+UTC Start Time: 2023-10-26T12:13:35.752Z,
+UTC End Time: 2023-10-26T12:13:36.511Z
+
+URL Endpoint: https://api.pointofrental.com/v1_dev/apikey/contacts,
+Result: Pass,
+Status Code: 200,
+Request Headers: {X-Filter=[{"field":"Emails.Email","type":"LIKE","value":"kofyihumli@gufum.com"}], X-Api-Key=R1fiwC9QlwaP1kYCRBgtI3PAA27MAjLZ9z18BHch, X-Paging={"page": 1,"pageSize": 10}},
+Response Body: [{"ModelType":"Contact","Id":"21101","Name":"Sep Month","Identifiers":{"ParentId":"233833","DriversLicense":"7456985","EmployeeId":null},"Addresses":[],"CompanyName":null,"Emails":[{"Type":"Default","Email":"kofyihumli@gufum.com"}],"FirstName":null,"LastName":null,"Phones":[{"Type":"Default","CountryCode":null,"Number":"","NumberE164":null,"Extension":"","SmsCapable":false},{"Type":"Mobile","CountryCode":null,"Number":"","NumberE164":null,"Extension":"","SmsCapable":true}],"AdditionalFields":{"InactiveDateTime":null},"CreatedDateTime":"2023-09-13T09:59:30.163Z","UpdatedDateTime":"2023-09-13T09:59:30.163Z","Hidden":0,"Department":null,"Title":null,"Disabled":false}],
+UTC Start Time: 2023-10-26T12:13:36.512Z,
+UTC End Time: 2023-10-26T12:13:38.154Z
+
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,
+Result: Pass,
+Status Code: 200,
+Request Headers: {Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPcmdhbml6YXRpb25JZCI6IjMwNzAiLCJVc2VySWQiOiIyNTgiLCJpYXQiOjE2OTgzMjI4MjQsImV4cCI6MTY5ODMyMzEyNH0.Vn5H3-5LX89e_OdUAmidYIe6raCISzv8uwswx58CYSc},
+Query Parameters: {email=kofyihumli@gufum.com},
+Response Body: {"Records":[{"customerName":"STARBUCKS","customerId":233833}],"Message":{"Type":"Success"}},
+UTC Start Time: 2023-10-26T12:21:00.317Z,
+UTC End Time: 2023-10-26T12:21:03.891Z
+
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,
+Result: Pass,
+Status Code: 200,
+Request Headers: {Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPcmdhbml6YXRpb25JZCI6IjMwNzAiLCJVc2VySWQiOiIyNTgiLCJpYXQiOjE2OTgzMjI4MjQsImV4cCI6MTY5ODMyMzEyNH0.Vn5H3-5LX89e_OdUAmidYIe6raCISzv8uwswx58CYSc},
+Query Parameters: {email=kofyihumli@gufum.com},
+Response Body: {"Records":[{"customerName":"STARBUCKS","customerId":233833}],"Message":{"Type":"Success"}},
+UTC Start Time: 2023-10-26T12:22:03.903Z,
+UTC End Time: 2023-10-26T12:22:05.660Z
+
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,
+Result: Pass,
+Status Code: 200,
+Request Headers: {Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPcmdhbml6YXRpb25JZCI6IjMwNzAiLCJVc2VySWQiOiIyNTgiLCJpYXQiOjE2OTgzMjI4MjQsImV4cCI6MTY5ODMyMzEyNH0.Vn5H3-5LX89e_OdUAmidYIe6raCISzv8uwswx58CYSc},
+Query Parameters: {email=kofyihumli@gufum.com},
+Response Body: {"Records":[{"customerName":"STARBUCKS","customerId":233833}],"Message":{"Type":"Success"}},
+UTC Start Time: 2023-10-26T12:23:35.664Z,
+UTC End Time: 2023-10-26T12:23:37.728Z
+
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,
+Result: Fail,
+Status Code: 401,
+Request Headers: {Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPcmdhbml6YXRpb25JZCI6IjMwNzAiLCJVc2VySWQiOiIyNTgiLCJpYXQiOjE2OTgzMjI4MjQsImV4cCI6MTY5ODMyMzEyNH0.Vn5H3-5LX89e_OdUAmidYIe6raCISzv8uwswx58CYSc},
+Query Parameters: {email=kofyihumli@gufum.com},
+Response Body: {"type":"Error","token":"Unauthorized.","tokenData":null,"message":"Request failed with status code 401"},
+UTC Start Time: 2023-10-26T12:25:37.733Z,
+UTC End Time: 2023-10-26T12:25:39.172Z
+
+URL Endpoint: https://api.pointofrental.com/v1_dev/apikey/contacts,
+Result: Pass,
+Status Code: 200,
+Request Headers: {X-Filter=[{"field":"Emails.Email","type":"LIKE","value":"kofyihumli@gufum.com"}], X-Api-Key=R1fiwC9QlwaP1kYCRBgtI3PAA27MAjLZ9z18BHch, X-Paging={"page": 1,"pageSize": 10}},
+Response Body: [{"ModelType":"Contact","Id":"21101","Name":"Sep Month","Identifiers":{"ParentId":"233833","DriversLicense":"7456985","EmployeeId":null},"Addresses":[],"CompanyName":null,"Emails":[{"Type":"Default","Email":"kofyihumli@gufum.com"}],"FirstName":null,"LastName":null,"Phones":[{"Type":"Default","CountryCode":null,"Number":"","NumberE164":null,"Extension":"","SmsCapable":false},{"Type":"Mobile","CountryCode":null,"Number":"","NumberE164":null,"Extension":"","SmsCapable":true}],"AdditionalFields":{"InactiveDateTime":null},"CreatedDateTime":"2023-09-13T09:59:30.163Z","UpdatedDateTime":"2023-09-13T09:59:30.163Z","Hidden":0,"Department":null,"Title":null,"Disabled":false}],
+UTC Start Time: 2023-10-26T12:25:39.173Z,
+UTC End Time: 2023-10-26T12:25:40.985Z
+
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,
+Result: Fail,
+Status Code: 401,
+Request Headers: {Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPcmdhbml6YXRpb25JZCI6IjMwNzAiLCJVc2VySWQiOiIyNTgiLCJpYXQiOjE2OTgzMjI4MjQsImV4cCI6MTY5ODMyMzEyNH0.Vn5H3-5LX89e_OdUAmidYIe6raCISzv8uwswx58CYSc},
+Query Parameters: {email=kofyihumli@gufum.com},
+Response Body: {"type":"Error","token":"Unauthorized.","tokenData":null,"message":"Request failed with status code 401"},
+UTC Start Time: 2023-10-26T12:28:13.003Z,
+UTC End Time: 2023-10-26T12:28:13.832Z
+
+URL Endpoint: https://api.pointofrental.com/v1_dev/apikey/contacts,
+Result: Pass,
+Status Code: 200,
+Request Headers: {X-Filter=[{"field":"Emails.Email","type":"LIKE","value":"kofyihumli@gufum.com"}], X-Api-Key=R1fiwC9QlwaP1kYCRBgtI3PAA27MAjLZ9z18BHch, X-Paging={"page": 1,"pageSize": 10}},
+Response Body: [{"ModelType":"Contact","Id":"21101","Name":"Sep Month","Identifiers":{"ParentId":"233833","DriversLicense":"7456985","EmployeeId":null},"Addresses":[],"CompanyName":null,"Emails":[{"Type":"Default","Email":"kofyihumli@gufum.com"}],"FirstName":null,"LastName":null,"Phones":[{"Type":"Default","CountryCode":null,"Number":"","NumberE164":null,"Extension":"","SmsCapable":false},{"Type":"Mobile","CountryCode":null,"Number":"","NumberE164":null,"Extension":"","SmsCapable":true}],"AdditionalFields":{"InactiveDateTime":null},"CreatedDateTime":"2023-09-13T09:59:30.163Z","UpdatedDateTime":"2023-09-13T09:59:30.163Z","Hidden":0,"Department":null,"Title":null,"Disabled":false}],
+UTC Start Time: 2023-10-26T12:28:13.848Z,
+UTC End Time: 2023-10-26T12:28:15.412Z
+
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,
+Result: Pass,
+Status Code: 200,
+Request Headers: {Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPcmdhbml6YXRpb25JZCI6IjMwNzAiLCJVc2VySWQiOiIyNTgiLCJpYXQiOjE2OTgzMjM4NzcsImV4cCI6MTY5ODMyNDE3N30.mM-dgTb0KCo8Kf-KRQVhhYjEwXbc-D7QT5lh5CRidXM},
+Query Parameters: {email=kofyihumli@gufum.com},
+Response Body: {"Records":[{"customerName":"STARBUCKS","customerId":233833}],"Message":{"Type":"Success"}},
+UTC Start Time: 2023-10-26T12:38:33.818Z,
+UTC End Time: 2023-10-26T12:38:38.233Z
+
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,
+Result: Pass,
+Status Code: 200,
+Request Headers: {Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPcmdhbml6YXRpb25JZCI6IjMwNzAiLCJVc2VySWQiOiIyNTgiLCJpYXQiOjE2OTgzMjM4NzcsImV4cCI6MTY5ODMyNDE3N30.mM-dgTb0KCo8Kf-KRQVhhYjEwXbc-D7QT5lh5CRidXM},
+Query Parameters: {email=kofyihumli@gufum.com},
+Response Body: {"Records":[{"customerName":"STARBUCKS","customerId":233833}],"Message":{"Type":"Success"}},
+UTC Start Time: 2023-10-26T12:39:38.239Z,
+UTC End Time: 2023-10-26T12:39:41.678Z
+
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,
+Result: Pass,
+Status Code: 200,
+Request Headers: {Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPcmdhbml6YXRpb25JZCI6IjMwNzAiLCJVc2VySWQiOiIyNTgiLCJpYXQiOjE2OTgzMjM4NzcsImV4cCI6MTY5ODMyNDE3N30.mM-dgTb0KCo8Kf-KRQVhhYjEwXbc-D7QT5lh5CRidXM},
+Query Parameters: {email=kofyihumli@gufum.com},
+Response Body: {"Records":[{"customerName":"STARBUCKS","customerId":233833}],"Message":{"Type":"Success"}},
+UTC Start Time: 2023-10-26T12:41:11.681Z,
+UTC End Time: 2023-10-26T12:41:14.226Z
+
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,
+Result: Fail,
+Status Code: 401,
+Request Headers: {Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPcmdhbml6YXRpb25JZCI6IjMwNzAiLCJVc2VySWQiOiIyNTgiLCJpYXQiOjE2OTgzMjM4NzcsImV4cCI6MTY5ODMyNDE3N30.mM-dgTb0KCo8Kf-KRQVhhYjEwXbc-D7QT5lh5CRidXM},
+Query Parameters: {email=kofyihumli@gufum.com},
+Response Body: {"type":"Error","token":"Unauthorized.","tokenData":null,"message":"Request failed with status code 401"},
+UTC Start Time: 2023-10-26T12:43:14.236Z,
+UTC End Time: 2023-10-26T12:43:15.638Z
+
+URL Endpoint: https://api.pointofrental.com/v1_dev/apikey/contacts,
+Result: Pass,
+Status Code: 200,
+Request Headers: {X-Filter=[{"field":"Emails.Email","type":"LIKE","value":"kofyihumli@gufum.com"}], X-Api-Key=R1fiwC9QlwaP1kYCRBgtI3PAA27MAjLZ9z18BHch, X-Paging={"page": 1,"pageSize": 10}},
+Response Body: [{"ModelType":"Contact","Id":"21101","Name":"Sep Month","Identifiers":{"ParentId":"233833","DriversLicense":"7456985","EmployeeId":null},"Addresses":[],"CompanyName":null,"Emails":[{"Type":"Default","Email":"kofyihumli@gufum.com"}],"FirstName":null,"LastName":null,"Phones":[{"Type":"Default","CountryCode":null,"Number":"","NumberE164":null,"Extension":"","SmsCapable":false},{"Type":"Mobile","CountryCode":null,"Number":"","NumberE164":null,"Extension":"","SmsCapable":true}],"AdditionalFields":{"InactiveDateTime":null},"CreatedDateTime":"2023-09-13T09:59:30.163Z","UpdatedDateTime":"2023-09-13T09:59:30.163Z","Hidden":0,"Department":null,"Title":null,"Disabled":false}],
+UTC Start Time: 2023-10-26T12:43:15.643Z,
+UTC End Time: 2023-10-26T12:43:17.251Z
+
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,
+Result: Fail,
+Status Code: 401,
+Request Headers: {Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPcmdhbml6YXRpb25JZCI6IjMwNzAiLCJVc2VySWQiOiIyNTgiLCJpYXQiOjE2OTgzMjM4NzcsImV4cCI6MTY5ODMyNDE3N30.mM-dgTb0KCo8Kf-KRQVhhYjEwXbc-D7QT5lh5CRidXM},
+Query Parameters: {email=kofyihumli@gufum.com},
+Response Body: {"type":"Error","token":"Unauthorized.","tokenData":null,"message":"Request failed with status code 401"},
+UTC Start Time: 2023-10-26T12:45:49.279Z,
+UTC End Time: 2023-10-26T12:45:50.148Z
+
+URL Endpoint: https://api.pointofrental.com/v1_dev/apikey/contacts,
+Result: Pass,
+Status Code: 200,
+Request Headers: {X-Filter=[{"field":"Emails.Email","type":"LIKE","value":"kofyihumli@gufum.com"}], X-Api-Key=R1fiwC9QlwaP1kYCRBgtI3PAA27MAjLZ9z18BHch, X-Paging={"page": 1,"pageSize": 10}},
+Response Body: [{"ModelType":"Contact","Id":"21101","Name":"Sep Month","Identifiers":{"ParentId":"233833","DriversLicense":"7456985","EmployeeId":null},"Addresses":[],"CompanyName":null,"Emails":[{"Type":"Default","Email":"kofyihumli@gufum.com"}],"FirstName":null,"LastName":null,"Phones":[{"Type":"Default","CountryCode":null,"Number":"","NumberE164":null,"Extension":"","SmsCapable":false},{"Type":"Mobile","CountryCode":null,"Number":"","NumberE164":null,"Extension":"","SmsCapable":true}],"AdditionalFields":{"InactiveDateTime":null},"CreatedDateTime":"2023-09-13T09:59:30.163Z","UpdatedDateTime":"2023-09-13T09:59:30.163Z","Hidden":0,"Department":null,"Title":null,"Disabled":false}],
+UTC Start Time: 2023-10-26T12:45:50.150Z,
+UTC End Time: 2023-10-26T12:45:51.819Z
+
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,
+Result: Pass,
+Status Code: 200,
+Request Headers: {Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPcmdhbml6YXRpb25JZCI6IjMwNzAiLCJVc2VySWQiOiIyNTgiLCJpYXQiOjE2OTgzMjQ2NTAsImV4cCI6MTY5ODMyNDk1MH0.OVrmU5sluBcLCKNwyUGZDeKXBJIZABmQrGt9SAGwN9E},
+Query Parameters: {email=kofyihumli@gufum.com},
+Response Body: {"Records":[{"customerName":"STARBUCKS","customerId":233833}],"Message":{"Type":"Success"}},
+UTC Start Time: 2023-10-26T12:51:25.502Z,
+UTC End Time: 2023-10-26T12:51:27.518Z
+
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,
+Result: Pass,
+Status Code: 200,
+Request Headers: {Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPcmdhbml6YXRpb25JZCI6IjMwNzAiLCJVc2VySWQiOiIyNTgiLCJpYXQiOjE2OTgzMjQ2NTAsImV4cCI6MTY5ODMyNDk1MH0.OVrmU5sluBcLCKNwyUGZDeKXBJIZABmQrGt9SAGwN9E},
+Query Parameters: {email=kofyihumli@gufum.com},
+Response Body: {"Records":[{"customerName":"STARBUCKS","customerId":233833}],"Message":{"Type":"Success"}},
+UTC Start Time: 2023-10-26T12:52:27.525Z,
+UTC End Time: 2023-10-26T12:52:31.008Z
+
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,
+Result: Pass,
+Status Code: 200,
+Request Headers: {Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPcmdhbml6YXRpb25JZCI6IjMwNzAiLCJVc2VySWQiOiIyNTgiLCJpYXQiOjE2OTgzMjQ2NTAsImV4cCI6MTY5ODMyNDk1MH0.OVrmU5sluBcLCKNwyUGZDeKXBJIZABmQrGt9SAGwN9E},
+Query Parameters: {email=kofyihumli@gufum.com},
+Response Body: {"Records":[{"customerName":"STARBUCKS","customerId":233833}],"Message":{"Type":"Success"}},
+UTC Start Time: 2023-10-26T12:54:01.021Z,
+UTC End Time: 2023-10-26T12:54:03.103Z
+
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,
+Result: Fail,
+Status Code: 401,
+Request Headers: {Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPcmdhbml6YXRpb25JZCI6IjMwNzAiLCJVc2VySWQiOiIyNTgiLCJpYXQiOjE2OTgzMjQ2NTAsImV4cCI6MTY5ODMyNDk1MH0.OVrmU5sluBcLCKNwyUGZDeKXBJIZABmQrGt9SAGwN9E},
+Query Parameters: {email=kofyihumli@gufum.com},
+Response Body: {"type":"Error","token":"Unauthorized.","tokenData":null,"message":"Request failed with status code 401"},
+UTC Start Time: 2023-10-26T12:56:03.118Z,
+UTC End Time: 2023-10-26T12:56:03.732Z
+
+URL Endpoint: https://api.pointofrental.com/v1_dev/apikey/contacts,
+Result: Pass,
+Status Code: 200,
+Request Headers: {X-Filter=[{"field":"Emails.Email","type":"LIKE","value":"kofyihumli@gufum.com"}], X-Api-Key=R1fiwC9QlwaP1kYCRBgtI3PAA27MAjLZ9z18BHch, X-Paging={"page": 1,"pageSize": 10}},
+Response Body: [{"ModelType":"Contact","Id":"21101","Name":"Sep Month","Identifiers":{"ParentId":"233833","DriversLicense":"7456985","EmployeeId":null},"Addresses":[],"CompanyName":null,"Emails":[{"Type":"Default","Email":"kofyihumli@gufum.com"}],"FirstName":null,"LastName":null,"Phones":[{"Type":"Default","CountryCode":null,"Number":"","NumberE164":null,"Extension":"","SmsCapable":false},{"Type":"Mobile","CountryCode":null,"Number":"","NumberE164":null,"Extension":"","SmsCapable":true}],"AdditionalFields":{"InactiveDateTime":null},"CreatedDateTime":"2023-09-13T09:59:30.163Z","UpdatedDateTime":"2023-09-13T09:59:30.163Z","Hidden":0,"Department":null,"Title":null,"Disabled":false}],
+UTC Start Time: 2023-10-26T12:56:03.737Z,
+UTC End Time: 2023-10-26T12:56:05.595Z
+
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,
+Result: Fail,
+Status Code: 401,
+Request Headers: {Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPcmdhbml6YXRpb25JZCI6IjMwNzAiLCJVc2VySWQiOiIyNTgiLCJpYXQiOjE2OTgzMjQ2NTAsImV4cCI6MTY5ODMyNDk1MH0.OVrmU5sluBcLCKNwyUGZDeKXBJIZABmQrGt9SAGwN9E},
+Query Parameters: {email=kofyihumli@gufum.com},
+Response Body: {"type":"Error","token":"Unauthorized.","tokenData":null,"message":"Request failed with status code 401"},
+UTC Start Time: 2023-10-26T12:58:37.618Z,
+UTC End Time: 2023-10-26T12:58:39.208Z
+
+URL Endpoint: https://api.pointofrental.com/v1_dev/apikey/contacts,
+Result: Pass,
+Status Code: 200,
+Request Headers: {X-Filter=[{"field":"Emails.Email","type":"LIKE","value":"kofyihumli@gufum.com"}], X-Api-Key=R1fiwC9QlwaP1kYCRBgtI3PAA27MAjLZ9z18BHch, X-Paging={"page": 1,"pageSize": 10}},
+Response Body: [{"ModelType":"Contact","Id":"21101","Name":"Sep Month","Identifiers":{"ParentId":"233833","DriversLicense":"7456985","EmployeeId":null},"Addresses":[],"CompanyName":null,"Emails":[{"Type":"Default","Email":"kofyihumli@gufum.com"}],"FirstName":null,"LastName":null,"Phones":[{"Type":"Default","CountryCode":null,"Number":"","NumberE164":null,"Extension":"","SmsCapable":false},{"Type":"Mobile","CountryCode":null,"Number":"","NumberE164":null,"Extension":"","SmsCapable":true}],"AdditionalFields":{"InactiveDateTime":null},"CreatedDateTime":"2023-09-13T09:59:30.163Z","UpdatedDateTime":"2023-09-13T09:59:30.163Z","Hidden":0,"Department":null,"Title":null,"Disabled":false}],
+UTC Start Time: 2023-10-26T12:58:39.215Z,
+UTC End Time: 2023-10-26T12:58:41.063Z
+

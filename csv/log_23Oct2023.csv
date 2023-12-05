@@ -1,0 +1,4 @@
+URL Endpoints, Result, Status Code, Request Headers,Query Parameters,Response Body,UTC Start Time, UTC End Time
+"https://dev-consumer-portal-api.rentamation.com/v1/customer/find","FAIL","502","{Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPcmdhbml6YXRpb25JZCI6IjMwNzAiLCJVc2VySWQiOiIyNTgiLCJpYXQiOjE2OTgwNjQ2NDYsImV4cCI6MTY5ODA2NDk0Nn0.TVkhFHmC6FQ4kySw70ExWQKBECv-vVfnhiJ4PALDJl4}","{email=kofyihumli@gufum.com}","","2023-10-23T12:37:30.994Z","2023-10-23T12:37:36.506Z"
+URL Endpoints, Result, Status Code, Request Headers,Query Parameters,Response Body,UTC Start Time, UTC End Time
+"https://api.pointofrental.com/v1_dev/apikey/contacts","FAIL","500","{X-Filter=[{"field":"Emails.Email","type":"LIKE","value":"kofyihumli@gufum.com"}], X-Api-Key=R1fiwC9QlwaP1kYCRBgtI3PAA27MAjLZ9z18BHch, X-Paging={"page": 1,"pageSize": 10}}","null","","2023-10-23T12:37:36.512Z","2023-10-23T12:37:41.160Z"

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="PORtests" duration-ms="207369" started-at="2023-10-31T12:12:35Z" finished-at="2023-10-31T12:16:02Z">
+    <groups>
+      <group name="Regression">
+        <method signature="FindCustomerID.verifyGetContractbyID_log()[pri:0, instance:com.portest.FindCustomerID@1d16f93d]" name="verifyGetContractbyID_log" class="com.portest.FindCustomerID"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test name="PORtests" duration-ms="207369" started-at="2023-10-31T12:12:35Z" finished-at="2023-10-31T12:16:02Z">
+      <class name="com.portest.FindCustomerID">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.portest.FindCustomerID@1d16f93d]" name="setup" is-config="true" duration-ms="963" started-at="2023-10-31T17:42:34Z" finished-at="2023-10-31T17:42:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.portest.FindCustomerID@1d16f93d]" name="beforeClass" is-config="true" duration-ms="1" started-at="2023-10-31T17:42:35Z" finished-at="2023-10-31T17:42:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.portest.FindCustomerID@1d16f93d]" name="beforeMethod" is-config="true" duration-ms="5" started-at="2023-10-31T17:42:35Z" finished-at="2023-10-31T17:42:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.portest.FindCustomerID.verifyGetContractbyID_log() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyGetContractbyID_log()[pri:0, instance:com.portest.FindCustomerID@1d16f93d]" name="verifyGetContractbyID_log" duration-ms="207312" started-at="2023-10-31T17:42:35Z" description="Verify the Contract endpoint" finished-at="2023-10-31T17:46:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGetContractbyID_log -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.portest.FindCustomerID@1d16f93d]" name="tearDown" is-config="true" duration-ms="479" started-at="2023-10-31T17:46:02Z" finished-at="2023-10-31T17:46:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.portest.FindCustomerID -->
+    </test> <!-- PORtests -->
+  </suite> <!-- PORtests -->
+</testng-results>

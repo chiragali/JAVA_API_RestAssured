@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="3" verbose="0" name="Failed suite [PORtests]" parallel="classes">
+  <test name="PORtests">
+    <groups>
+      <run>
+        <include name="Regression"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.portest.FindCustomerID">
+        <methods>
+          <include name="verifyGetContractbyID_log"/>
+        </methods>
+      </class> <!-- com.portest.FindCustomerID -->
+    </classes>
+  </test> <!-- PORtests -->
+</suite> <!-- Failed suite [PORtests] -->

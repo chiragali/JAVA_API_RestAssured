@@ -1,0 +1,11 @@
+{
+    "Records": [
+        {
+            "customerName": "STARBUCKS",
+            "customerId": 233833
+        }
+    ],
+    "Message": {
+        "Type": "Success"
+    }
+}

@@ -1,0 +1,142 @@
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,Result: Pass,Status Code: 200,Request Headers: {Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPcmdhbml6YXRpb25JZCI6IjMwNzAiLCJVc2VySWQiOiIyNTgiLCJpYXQiOjE2OTg3Mzk5NTgsImV4cCI6MTY5ODc0MDI1OH0.osMNj15TiiT8I6MPqeckopVTabTUDqliQ4PEYxI3u6M},Query Parameters: {email=kofyihumli@gufum.com},Response Body: {"Records":[{"customerName":"STARBUCKS","customerId":233833}],"Message":{"Type":"Success"}},UTC Start Time: 2023-10-31T08:13:12.931Z,UTC End Time: 2023-10-31T08:13:19.063Z
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,Result: Fail,Status Code: 502,Request Headers: {Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPcmdhbml6YXRpb25JZCI6IjMwNzAiLCJVc2VySWQiOiIyNTgiLCJpYXQiOjE2OTg3NDE2NzIsImV4cCI6MTY5ODc0MTk3Mn0.xaatek8LQrXaYqse0nd8ZJvjSRq75yCQfs4IT1Qb-UI},Query Parameters: {email=kofyihumli@gufum.com},Response Body: <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+
+
+<title>dev-consumer-portal-api.rentamation.com | 502: Bad gateway</title>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" />
+
+
+</head>
+<body>
+<div id="cf-wrapper">
+    <div id="cf-error-details" class="p-0">
+        <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8">
+            <h1 class="inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2">
+              <span class="inline-block">Bad gateway</span>
+              <span class="code-label">Error code 502</span>
+            </h1>
+            <div>
+               Visit <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=dev-consumer-portal-api.rentamation.com" target="_blank" rel="noopener noreferrer">cloudflare.com</a> for more information.
+            </div>
+            <div class="mt-3">2023-10-31 08:42:09 UTC</div>
+        </header>
+        <div class="my-8 bg-gradient-gray">
+            <div class="w-240 lg:w-full mx-auto">
+                <div class="clearfix md:px-8">
+                  
+<div id="cf-browser-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    
+    <span class="cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+    
+  </div>
+  <span class="md:block w-full truncate">You</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
+    
+    Browser
+    
+  </h3>
+  <span class="leading-1.3 text-2xl text-green-success">Working</span>
+</div>
+
+<div id="cf-cloudflare-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=dev-consumer-portal-api.rentamation.com" target="_blank" rel="noopener noreferrer">
+    <span class="cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+    </a>
+  </div>
+  <span class="md:block w-full truncate">Ahmedabad</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
+    <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=dev-consumer-portal-api.rentamation.com" target="_blank" rel="noopener noreferrer">
+    Cloudflare
+    </a>
+  </h3>
+  <span class="leading-1.3 text-2xl text-green-success">Working</span>
+</div>
+
+<div id="cf-host-status" class="cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    
+    <span class="cf-icon-server block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+    
+  </div>
+  <span class="md:block w-full truncate">dev-consumer-portal-api.rentamation.com</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
+    
+    Host
+    
+  </h3>
+  <span class="leading-1.3 text-2xl text-red-error">Error</span>
+</div>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="w-240 lg:w-full mx-auto mb-8 lg:px-8">
+            <div class="clearfix">
+                <div class="w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed">
+                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What happened?</h2>
+                    <p>The web server reported a bad gateway error.</p>
+                </div>
+                <div class="w-1/2 md:w-full float-left leading-relaxed">
+                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What can I do?</h2>
+                    <p class="mb-6">Please try again in a few minutes.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+  <p class="text-13">
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">81ea99da886b032e</strong></span>
+    <span class="cf-footer-separator sm:hidden">&bull;</span>
+    <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
+      Your IP:
+      <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
+      <span class="hidden" id="cf-footer-ip">43.250.158.137</span>
+      <span class="cf-footer-separator sm:hidden">&bull;</span>
+    </span>
+    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=dev-consumer-portal-api.rentamation.com" id="brand_link" target="_blank">Cloudflare</a></span>
+    
+  </p>
+  <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
+</div><!-- /.error-footer -->
+
+
+    </div>
+</div>
+</body>
+</html>
+,UTC Start Time: 2023-10-31T08:41:47.865Z,UTC End Time: 2023-10-31T08:42:09.238Z
+URL Endpoint: https://api.pointofrental.com/v1_dev/apikey/contacts,Result: Pass,Status Code: 200,Request Headers: {X-Filter=[{"field":"Emails.Email","type":"LIKE","value":"kofyihumli@gufum.com"}], X-Api-Key=R1fiwC9QlwaP1kYCRBgtI3PAA27MAjLZ9z18BHch, X-Paging={"page": 1,"pageSize": 10}},Response Body: [{"ModelType":"Contact","Id":"21101","Name":"Sep Month","Identifiers":{"ParentId":"233833","DriversLicense":"7456985","EmployeeId":null},"Addresses":[],"CompanyName":null,"Emails":[{"Type":"Default","Email":"kofyihumli@gufum.com"}],"FirstName":null,"LastName":null,"Phones":[{"Type":"Default","CountryCode":null,"Number":"","NumberE164":null,"Extension":"","SmsCapable":false},{"Type":"Mobile","CountryCode":null,"Number":"","NumberE164":null,"Extension":"","SmsCapable":true}],"AdditionalFields":{"InactiveDateTime":null},"CreatedDateTime":"2023-09-13T09:59:30.163Z","UpdatedDateTime":"2023-09-13T09:59:30.163Z","Hidden":0,"Department":null,"Title":null,"Disabled":false}],UTC Start Time: 2023-10-31T08:42:10.732Z,UTC End Time: 2023-10-31T08:42:12.812Z
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,Result: Pass,Status Code: 200,Request Headers: {Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPcmdhbml6YXRpb25JZCI6IjMwNzAiLCJVc2VySWQiOiIyNTgiLCJpYXQiOjE2OTg3NDMwOTMsImV4cCI6MTY5ODc0MzM5M30.LC5NF6jjzaf3_O8ZWWhkXgGMsink2D01XlQC5hO8nZI},Query Parameters: {email=kofyihumli@gufum.com},Response Body: {"Records":[{"customerName":"STARBUCKS","customerId":233833}],"Message":{"Type":"Success"}},UTC Start Time: 2023-10-31T09:05:27.589Z,UTC End Time: 2023-10-31T09:05:31.362Z
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,Result: Pass,Status Code: 200,Request Headers: {Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPcmdhbml6YXRpb25JZCI6IjMwNzAiLCJVc2VySWQiOiIyNTgiLCJpYXQiOjE2OTg3NDMyNTIsImV4cCI6MTY5ODc0MzU1Mn0.Fe0fPWKxC4KHSPjBdHuiAZO77ia0YHlqE4yHieM9S2Y},Query Parameters: {email=kofyihumli@gufum.com},Response Body: {"Records":[{"customerName":"STARBUCKS","customerId":233833}],"Message":{"Type":"Success"}},UTC Start Time: 2023-10-31T09:08:07.092Z,UTC End Time: 2023-10-31T09:08:10.789Z
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,Result: Pass,Status Code: 200,Request Headers: {Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPcmdhbml6YXRpb25JZCI6IjMwNzAiLCJVc2VySWQiOiIyNTgiLCJpYXQiOjE2OTg3NDMzNjgsImV4cCI6MTY5ODc0MzY2OH0.cuKrABqkO-ztB2AncCFvdadrBSDdk3JFyqdHfrKJk0I},Query Parameters: {email=kofyihumli@gufum.com},Response Body: {"Records":[{"customerName":"STARBUCKS","customerId":233833}],"Message":{"Type":"Success"}},UTC Start Time: 2023-10-31T09:10:02.472Z,UTC End Time: 2023-10-31T09:10:06.196Z
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,Result: Pass,Status Code: 200,Request Headers: {Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPcmdhbml6YXRpb25JZCI6IjMwNzAiLCJVc2VySWQiOiIyNTgiLCJpYXQiOjE2OTg3NDMzNzMsImV4cCI6MTY5ODc0MzY3M30.ZANRXfswEf6d8rVkRYdueQIgsCCDz6uSs8BAX_cSBgw},Query Parameters: {email=kofyihumli@gufum.com},Response Body: {"Records":[{"customerName":"STARBUCKS","customerId":233833}],"Message":{"Type":"Success"}},UTC Start Time: 2023-10-31T09:10:06.907Z,UTC End Time: 2023-10-31T09:10:09.015Z
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,Result: Pass,Status Code: 200,Request Headers: {Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPcmdhbml6YXRpb25JZCI6IjMwNzAiLCJVc2VySWQiOiIyNTgiLCJpYXQiOjE2OTg3NDMzNjgsImV4cCI6MTY5ODc0MzY2OH0.cuKrABqkO-ztB2AncCFvdadrBSDdk3JFyqdHfrKJk0I},Query Parameters: {email=kofyihumli@gufum.com},Response Body: {"Records":[{"customerName":"STARBUCKS","customerId":233833}],"Message":{"Type":"Success"}},UTC Start Time: 2023-10-31T09:11:07.540Z,UTC End Time: 2023-10-31T09:11:09.320Z
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,Result: Pass,Status Code: 200,Request Headers: {Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPcmdhbml6YXRpb25JZCI6IjMwNzAiLCJVc2VySWQiOiIyNTgiLCJpYXQiOjE2OTg3NDMzNzMsImV4cCI6MTY5ODc0MzY3M30.ZANRXfswEf6d8rVkRYdueQIgsCCDz6uSs8BAX_cSBgw},Query Parameters: {email=kofyihumli@gufum.com},Response Body: {"Records":[{"customerName":"STARBUCKS","customerId":233833}],"Message":{"Type":"Success"}},UTC Start Time: 2023-10-31T09:11:10.446Z,UTC End Time: 2023-10-31T09:11:12.439Z
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,Result: Fail,Status Code: 401,Request Headers: {Authorization=d65a11ea9031eadc13cc76d4d329ba972bf1e379775f7bc063cf4d6c7c375fc2295e5fbd1c985702da03974949f3b89cde8cb6dfbb113eff5687ae1731b634623c03ebbc47cb83297d57da3da1ef29b90c517114b5a1c394bc62a1d2ab172eb035d98bc119284eaf753bc94fd0b1c900063be55f6b2f09a0c54afb53b2deda27},Query Parameters: {email=kofyihumli@gufum.com},Response Body: {"type":"Error","token":"Unauthorized.","message":"Request failed with status code 401"},UTC Start Time: 2023-10-31T09:11:45.607Z,UTC End Time: 2023-10-31T09:11:46.330Z
+URL Endpoint: https://api.pointofrental.com/v1_dev/apikey/contacts,Result: Pass,Status Code: 200,Request Headers: {X-Filter=[{"field":"Emails.Email","type":"LIKE","value":"kofyihumli@gufum.com"}], X-Api-Key=R1fiwC9QlwaP1kYCRBgtI3PAA27MAjLZ9z18BHch, X-Paging={"page": 1,"pageSize": 10}},Response Body: [{"ModelType":"Contact","Id":"21101","Name":"Sep Month","Identifiers":{"ParentId":"233833","DriversLicense":"7456985","EmployeeId":null},"Addresses":[],"CompanyName":null,"Emails":[{"Type":"Default","Email":"kofyihumli@gufum.com"}],"FirstName":null,"LastName":null,"Phones":[{"Type":"Default","CountryCode":null,"Number":"","NumberE164":null,"Extension":"","SmsCapable":false},{"Type":"Mobile","CountryCode":null,"Number":"","NumberE164":null,"Extension":"","SmsCapable":true}],"AdditionalFields":{"InactiveDateTime":null},"CreatedDateTime":"2023-09-13T09:59:30.163Z","UpdatedDateTime":"2023-09-13T09:59:30.163Z","Hidden":0,"Department":null,"Title":null,"Disabled":false}],UTC Start Time: 2023-10-31T09:11:46.404Z,UTC End Time: 2023-10-31T09:11:48.028Z
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,Result: Fail,Status Code: 401,Request Headers: {Authorization=d65a11ea9031eadc13cc76d4d329ba972bf1e379775f7bc063cf4d6c7c375fc2295e5fbd1c985702da03974949f3b89cde8cb6dfbb113eff5687ae1731b634623c03ebbc47cb83297d57da3da1ef29b90c517114b5a1c394bc62a1d2ab172eb035d98bc119284eaf753bc94fd0b1c900063be55f6b2f09a0c54afb53b2deda27},Query Parameters: {email=kofyihumli@gufum.com},Response Body: {"type":"Error","token":"Unauthorized.","message":"Request failed with status code 401"},UTC Start Time: 2023-10-31T09:12:50.154Z,UTC End Time: 2023-10-31T09:12:50.789Z
+URL Endpoint: https://api.pointofrental.com/v1_dev/apikey/contacts,Result: Pass,Status Code: 200,Request Headers: {X-Filter=[{"field":"Emails.Email","type":"LIKE","value":"kofyihumli@gufum.com"}], X-Api-Key=R1fiwC9QlwaP1kYCRBgtI3PAA27MAjLZ9z18BHch, X-Paging={"page": 1,"pageSize": 10}},Response Body: [{"ModelType":"Contact","Id":"21101","Name":"Sep Month","Identifiers":{"ParentId":"233833","DriversLicense":"7456985","EmployeeId":null},"Addresses":[],"CompanyName":null,"Emails":[{"Type":"Default","Email":"kofyihumli@gufum.com"}],"FirstName":null,"LastName":null,"Phones":[{"Type":"Default","CountryCode":null,"Number":"","NumberE164":null,"Extension":"","SmsCapable":false},{"Type":"Mobile","CountryCode":null,"Number":"","NumberE164":null,"Extension":"","SmsCapable":true}],"AdditionalFields":{"InactiveDateTime":null},"CreatedDateTime":"2023-09-13T09:59:30.163Z","UpdatedDateTime":"2023-09-13T09:59:30.163Z","Hidden":0,"Department":null,"Title":null,"Disabled":false}],UTC Start Time: 2023-10-31T09:12:50.846Z,UTC End Time: 2023-10-31T09:12:52.393Z
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,Result: Pass,Status Code: 200,Request Headers: {Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPcmdhbml6YXRpb25JZCI6IjMwNzAiLCJVc2VySWQiOiIyNTgiLCJpYXQiOjE2OTg3NTAzNTMsImV4cCI6MTY5ODc1MDY1M30.huiDEvnteYaq7yZAE6TulQg8lXQGbBmqRx4crRIUryQ},Query Parameters: {email=kofyihumli@gufum.com},Response Body: {"Records":[{"customerName":"STARBUCKS","customerId":233833}],"Message":{"Type":"Success"}},UTC Start Time: 2023-10-31T11:06:29.140Z,UTC End Time: 2023-10-31T11:06:31.390Z
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,Result: Pass,Status Code: 200,Request Headers: {Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPcmdhbml6YXRpb25JZCI6IjMwNzAiLCJVc2VySWQiOiIyNTgiLCJpYXQiOjE2OTg3NTAzNTMsImV4cCI6MTY5ODc1MDY1M30.huiDEvnteYaq7yZAE6TulQg8lXQGbBmqRx4crRIUryQ},Query Parameters: {email=kofyihumli@gufum.com},Response Body: {"Records":[{"customerName":"STARBUCKS","customerId":233833}],"Message":{"Type":"Success"}},UTC Start Time: 2023-10-31T11:07:33.392Z,UTC End Time: 2023-10-31T11:07:35.155Z
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,Result: Pass,Status Code: 200,Request Headers: {Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPcmdhbml6YXRpb25JZCI6IjMwNzAiLCJVc2VySWQiOiIyNTgiLCJpYXQiOjE2OTg3NTQzNjAsImV4cCI6MTY5ODc1NDY2MH0.LHxpqNj29GQWapvDVBG2vLC9YOSy-mwk8K9YZy8er8o},Query Parameters: {email=kofyihumli@gufum.com},Response Body: {"Records":[{"customerName":"STARBUCKS","customerId":233833}],"Message":{"Type":"Success"}},UTC Start Time: 2023-10-31T12:13:14.136Z,UTC End Time: 2023-10-31T12:13:16.094Z
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,Result: Pass,Status Code: 200,Request Headers: {Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPcmdhbml6YXRpb25JZCI6IjMwNzAiLCJVc2VySWQiOiIyNTgiLCJpYXQiOjE2OTg3NTQzNjAsImV4cCI6MTY5ODc1NDY2MH0.LHxpqNj29GQWapvDVBG2vLC9YOSy-mwk8K9YZy8er8o},Query Parameters: {email=kofyihumli@gufum.com},Response Body: {"Records":[{"customerName":"STARBUCKS","customerId":233833}],"Message":{"Type":"Success"}},UTC Start Time: 2023-10-31T12:14:18.166Z,UTC End Time: 2023-10-31T12:14:20.662Z
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,Result: Fail,Status Code: 401,Request Headers: {Authorization=9ea67dde9c207436b2f179a4f464c909c6a25ac41b09ddc5202d00211a8895455af6ee2884ccea24369dbd8e7ba8c1bac3e731f2ac9e7d545f37c2a071dfcf0a9b0d84043c6c326ac3afacd913e81689e0cadfad5394ec1cfb83a35a5f4cef40dde7a6d2a903dde41da44f1c35aa2038e096abf405cdc0342473479f66dc6dfd},Query Parameters: {email=kofyihumli@gufum.com},Response Body: {"type":"Error","token":"Unauthorized.","message":"Request failed with status code 401"},UTC Start Time: 2023-10-31T12:14:51.813Z,UTC End Time: 2023-10-31T12:14:52.411Z
+URL Endpoint: https://api.pointofrental.com/v1_dev/apikey/contacts,Result: Pass,Status Code: 200,Request Headers: {X-Filter=[{"field":"Emails.Email","type":"LIKE","value":"kofyihumli@gufum.com"}], X-Api-Key=R1fiwC9QlwaP1kYCRBgtI3PAA27MAjLZ9z18BHch, X-Paging={"page": 1,"pageSize": 10}},Response Body: [{"ModelType":"Contact","Id":"21101","Name":"Sep Month","Identifiers":{"ParentId":"233833","DriversLicense":"7456985","EmployeeId":null},"Addresses":[],"CompanyName":null,"Emails":[{"Type":"Default","Email":"kofyihumli@gufum.com"}],"FirstName":null,"LastName":null,"Phones":[{"Type":"Default","CountryCode":null,"Number":"","NumberE164":null,"Extension":"","SmsCapable":false},{"Type":"Mobile","CountryCode":null,"Number":"","NumberE164":null,"Extension":"","SmsCapable":true}],"AdditionalFields":{"InactiveDateTime":null},"CreatedDateTime":"2023-09-13T09:59:30.163Z","UpdatedDateTime":"2023-09-13T09:59:30.163Z","Hidden":0,"Department":null,"Title":null,"Disabled":false}],UTC Start Time: 2023-10-31T12:14:52.533Z,UTC End Time: 2023-10-31T12:14:54.203Z
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,Result: Fail,Status Code: 401,Request Headers: {Authorization=9ea67dde9c207436b2f179a4f464c909c6a25ac41b09ddc5202d00211a8895455af6ee2884ccea24369dbd8e7ba8c1bac3e731f2ac9e7d545f37c2a071dfcf0a9b0d84043c6c326ac3afacd913e81689e0cadfad5394ec1cfb83a35a5f4cef40dde7a6d2a903dde41da44f1c35aa2038e096abf405cdc0342473479f66dc6dfd},Query Parameters: {email=kofyihumli@gufum.com},Response Body: {"type":"Error","token":"Unauthorized.","message":"Request failed with status code 401"},UTC Start Time: 2023-10-31T12:15:56.337Z,UTC End Time: 2023-10-31T12:15:56.989Z
+URL Endpoint: https://api.pointofrental.com/v1_dev/apikey/contacts,Result: Pass,Status Code: 200,Request Headers: {X-Filter=[{"field":"Emails.Email","type":"LIKE","value":"kofyihumli@gufum.com"}], X-Api-Key=R1fiwC9QlwaP1kYCRBgtI3PAA27MAjLZ9z18BHch, X-Paging={"page": 1,"pageSize": 10}},Response Body: [{"ModelType":"Contact","Id":"21101","Name":"Sep Month","Identifiers":{"ParentId":"233833","DriversLicense":"7456985","EmployeeId":null},"Addresses":[],"CompanyName":null,"Emails":[{"Type":"Default","Email":"kofyihumli@gufum.com"}],"FirstName":null,"LastName":null,"Phones":[{"Type":"Default","CountryCode":null,"Number":"","NumberE164":null,"Extension":"","SmsCapable":false},{"Type":"Mobile","CountryCode":null,"Number":"","NumberE164":null,"Extension":"","SmsCapable":true}],"AdditionalFields":{"InactiveDateTime":null},"CreatedDateTime":"2023-09-13T09:59:30.163Z","UpdatedDateTime":"2023-09-13T09:59:30.163Z","Hidden":0,"Department":null,"Title":null,"Disabled":false}],UTC Start Time: 2023-10-31T12:15:57.078Z,UTC End Time: 2023-10-31T12:15:58.959Z

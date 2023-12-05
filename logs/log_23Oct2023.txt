@@ -1,0 +1,16 @@
+URL Endpoint: https://dev-consumer-portal-api.rentamation.com/v1/customer/find,
+Result: Fail,
+Status Code: 502,
+Request Headers: {Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPcmdhbml6YXRpb25JZCI6IjMwNzAiLCJVc2VySWQiOiIyNTgiLCJpYXQiOjE2OTgwNTQxNjcsImV4cCI6MTY5ODA1NDQ2N30.GANglhgPQ0lI76RERDOYb6AiIaUSi6mijJexlGC3SWs},
+Query Parameters: {email=kofyihumli@gufum.com},
+UTC Start Time Time: 2023-10-23T09:42:53.071Z,
+UTC End Time Time: 2023-10-23T09:43:15.188Z
+
+URL Endpoint: https://api.pointofrental.com/v1_dev/apikey/contacts,
+Result: Fail,
+Status Code: 502,
+Request Headers: {X-Filter=[{"field":"Emails.Email","type":"LIKE","value":"kofyihumli@gufum.com"}], X-Api-Key=R1fiwC9QlwaP1kYCRBgtI3PAA27MAjLZ9z18BHch, X-Paging={"page": 1,"pageSize": 10}},
+Query Parameters: null,
+UTC Start Time Time: 2023-10-23T09:43:15.190Z,
+UTC End Time Time: 2023-10-23T09:43:36.679Z
+

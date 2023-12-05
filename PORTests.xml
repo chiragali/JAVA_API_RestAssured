@@ -14,7 +14,10 @@
 			</run>
 		</groups>
 		<classes>
-			 	<class name="com.portest.LoginAPITest" />
+			 	<class name="com.portest.FindCustomerID" />
+			<methods>
+				<include name="verifyGetContractbyID_log"/>
+			</methods>
 		</classes>
 	</test>
 </suite> 

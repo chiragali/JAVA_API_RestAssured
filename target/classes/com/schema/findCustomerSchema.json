@@ -1,0 +1,41 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "Records": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "customerName": {
+              "type": "string"
+            },
+            "customerId": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "customerName",
+            "customerId"
+          ]
+        }
+      ]
+    },
+    "Message": {
+      "type": "object",
+      "properties": {
+        "Type": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "Type"
+      ]
+    }
+  },
+  "required": [
+    "Records",
+    "Message"
+  ]
+}
