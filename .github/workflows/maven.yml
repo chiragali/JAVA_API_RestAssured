@@ -10,7 +10,7 @@ name: Java Rest Assured CI
 
 on:
   schedule:
-    - cron: '0 15 * * *'
+    - cron: '51 14 * * *'
 
 jobs:
   test:
