@@ -8,9 +8,11 @@
 
 name: Java Rest Assured CI
 
-on:
-  schedule:
-    - cron: '55 14 * * *'
+# on:
+#   schedule:
+#     - cron: '55 14 * * *'
+
+on: workflow_dispatch
 
 jobs:
   test:
